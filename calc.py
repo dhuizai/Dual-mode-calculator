@@ -4,7 +4,7 @@
 依赖：PySide6, sympy
 启动：python calc.py
 """
-##
+
 import sys
 import os
 import math
